@@ -37,7 +37,7 @@ Fullstack Developer
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA" target="_blank">
+  <a href="https://www.youtube.com/DirectorIshuChawla" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
