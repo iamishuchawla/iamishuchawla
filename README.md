@@ -3,6 +3,7 @@
   Hi there 👋  I'm   <a href="https://iamishuchawla.github.io/" target="_blank">
   Ishu Chawla</a> 👨‍💻
 </h1>
+Fullstack Developer
 <!-- <p align='center'>
   Fullstack Developer at <a href="https://www.leewayhertz.com/software-development-company" target="_blank">Leewayhertz</a>
 </p>  -->
